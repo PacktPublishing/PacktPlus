@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.app",
+	"appName": "tailwind-nextjs-starter-blog",
+	"webDir": "out",
+	"bundledWebRuntime": false
+}
