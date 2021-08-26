@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SelectedDevice>pixel_3a_q_10_0_-_api_29</SelectedDevice>
+    <ActiveDebugProfile>Pixel 3a Q 10.0 - API 29 (Android 10.0 - API 29)</ActiveDebugProfile>
+    <ActiveDebugFramework>net6.0-android</ActiveDebugFramework>
+    <DefaultDevice>pixel_3a_q_10_0_-_api_29</DefaultDevice>
+  </PropertyGroup>
+  <ItemGroup>
+    <MauiXaml Update="Views\TodoListPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+  </ItemGroup>
+</Project>
